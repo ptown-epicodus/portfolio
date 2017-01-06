@@ -51,7 +51,8 @@ h4 {
   text-align: justify;
 }
 
-#about-me ul {
+#about-me ul,
+#about-me ol {
   font-family: serif;
 }
 
