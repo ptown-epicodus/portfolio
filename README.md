@@ -15,6 +15,7 @@ Open `index.html` in web browser.
 ## Technologies Used
 
 HTML
+
 CSS
 
 ### License
