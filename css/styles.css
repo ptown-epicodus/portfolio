@@ -45,14 +45,15 @@ h4 {
   font-family: serif;
 }
 
-#languages ul {
-  font-family: monospace;
-}
-
 #interests ul {
   font-style: italic;
 }
 
 a {
   color: green;
+}
+
+.language {
+  font-family: monospace;
+  text-decoration: underline;
 }
