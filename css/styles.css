@@ -1,3 +1,7 @@
+body {
+  font-family: Arial;
+}
+
 #title {
   font-family: "Times New Roman", serif;
   text-align: center;
@@ -12,4 +16,43 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+h3,
+h4 {
+  color: red;
+}
+
+#projects h3,
+#about-me h3 {
+  font-size: 28px;
+}
+
+.project h4 {
+    font-style: italic;
+}
+
+#about-me h4 {
+  text-decoration: underline;
+}
+
+#about-me p {
+  text-indent: 50px;
+  text-align: justify;
+}
+
+#about-me ul {
+  font-family: serif;
+}
+
+#languages ul {
+  font-family: monospace;
+}
+
+#interests ul {
+  font-style: italic;
+}
+
+a {
+  color: green;
 }
