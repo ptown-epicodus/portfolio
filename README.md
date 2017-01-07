@@ -4,6 +4,8 @@
 
 #### By Patrick McGreevy
 
+[GitHub Pages site](https://ptown-epicodus.github.io/portfolio/)
+
 ## Description
 
 This webpage acts as the landing page for my programming portfolio.
